@@ -1,0 +1,9 @@
+[project]
+name = "abpi-python"
+version = "0.1.0"
+description = "Python SDK for ABPI.se"
+authors = [{ name = "ABPI" },]
+dependencies = [
+    "pydantic >=2.0.0",
+    "requests >=2.0.0",
+]
