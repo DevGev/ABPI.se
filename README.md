@@ -18,9 +18,9 @@ API documentation: https://abpi.se/docs
 ---
 
 * ##### [Releases](../../releases)
-* ##### [Issue tracker](../issues)
-* ##### [Feature requests](../issues)
-* ##### [License](license.md)
+* ##### [Issue tracker](../../issues)
+* ##### [Feature requests](../../issues)
+* ##### [License](LICENSE.md)
 
 ---
 

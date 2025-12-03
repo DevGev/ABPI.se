@@ -11,7 +11,7 @@ Documentation: https://abpi.se/docs
 Installation through PIP:
 
 ```bash
-pip install https://github.com/devgev/abpi.se/releases/download/0.1.0/abpi-python-0.1.0.tar.gz
+pip install https://github.com/devgev/abpi.se/releases/download/0.1.0/abpi_python-0.1.0.tar.gz
 ```
 
 ## Usage
